@@ -1,0 +1,8 @@
+Hương
+- Đăng ký, đăng nhập, đăng xuất, kích hoạt tài khoản
+An
+- Cập nhật thông tin cá nhân
+Sang
+- Đăng bài viết và hiển thị trên trang cá nhân, trang chủ
+Diệu
+- Gửi email
